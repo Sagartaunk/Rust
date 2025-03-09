@@ -1,0 +1,2 @@
+This program will read the occurences of all words in a file
+if the file does not exist at the specified path , it will create an empty file 
